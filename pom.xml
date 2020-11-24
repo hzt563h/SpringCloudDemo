@@ -12,6 +12,7 @@
     <modules>
         <module>eureka-server-7001</module>
         <module>eureka-server-7002</module>
+        <module>cloud-provider-payment8001</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->
@@ -100,5 +101,18 @@
             </plugin>
         </plugins>
     </build>
-
+    <!--第三方maven私服-->
+    <repositories>
+        <repository>
+            <id>nexus-aliyun</id>
+            <name>Nexus aliyun</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
 </project>
