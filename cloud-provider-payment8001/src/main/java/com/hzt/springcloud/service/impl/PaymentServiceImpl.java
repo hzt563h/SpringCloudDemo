@@ -1,15 +1,18 @@
-package com.eiletxie.springcloud.service.impl;
+package com.hzt.springcloud.service.impl;
 
-import com.eiletxie.springcloud.dao.PaymentDao;
+import com.hzt.springcloud.dao.PaymentDao;
 import com.hzt.springcloud.Payment;
-import com.eiletxie.springcloud.service.PaymentService;
+import com.hzt.springcloud.service.PaymentService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/9 12:02
+ * @author hzt
+ * @version 1.0.0
+ * @ClassName PaymentServiceImpl.java
+ * @Description TODO PaymentServiceImpl
+ * @createTime 2020年11月24日 19:32:00
  */
 @Service
 public class PaymentServiceImpl implements PaymentService {

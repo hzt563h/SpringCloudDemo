@@ -1,12 +1,15 @@
-package com.eiletxie.springcloud;
+package com.hzt.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 /**
- * @Author EiletXie
- * @Since 2020/3/8 23:13
+ * @author hzt
+ * @version 1.0.0
+ * @ClassName PaymentMain8001.java
+ * @Description TODO PaymentMain8001
+ * @createTime 2020年11月24日 19:32:00
  */
 @SpringBootApplication
 public class PaymentMain8001 {

@@ -7,8 +7,11 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/9 13:51
+ * @author hzt
+ * @version 1.0.0
+ * @ClassName Payment.java
+ * @Description TODO Payment
+ * @createTime 2020年11月24日 19:32:00
  */
 @Data
 @AllArgsConstructor

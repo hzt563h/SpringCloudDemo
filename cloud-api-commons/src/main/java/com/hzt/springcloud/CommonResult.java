@@ -5,8 +5,11 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/9 13:52
+ * @author hzt
+ * @version 1.0.0
+ * @ClassName CommonResult.java
+ * @Description TODO CommonResult
+ * @createTime 2020年11月24日 19:32:00
  */
 @Data
 @AllArgsConstructor

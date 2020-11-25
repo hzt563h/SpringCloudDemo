@@ -1,11 +1,14 @@
-package com.eiletxie.springcloud.service;
+package com.hzt.springcloud.service;
 
 import com.hzt.springcloud.Payment;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @Author EiletXie
- * @Since 2020/3/9 12:00
+ * @author hzt
+ * @version 1.0.0
+ * @ClassName PaymentService.java
+ * @Description TODO PaymentService
+ * @createTime 2020年11月24日 19:32:00
  */
 public interface PaymentService {
 
