@@ -7,11 +7,9 @@
         <groupId>com.hzt.springcloud</groupId>
         <version>1.0.0</version>
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>cloud-consumer-order80</name>
-    <description>Demo project for Spring Boot</description>
+
+    <artifactId>cloud-consumer-order80</artifactId>
+
 
     <properties>
         <java.version>1.8</java.version>

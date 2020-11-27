@@ -7,11 +7,9 @@
         <groupId>com.hzt.springcloud</groupId>
         <version>1.0.0</version>
     </parent>
-    <groupId>com.hzt</groupId>
-    <artifactId>springcloud</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>cloud-provider-payment8004</name>
-    <description>cloud-provider-payment8004</description>
+
+    <artifactId>cloud-provider-payment8004</artifactId>
+
 
     <properties>
         <java.version>1.8</java.version>
