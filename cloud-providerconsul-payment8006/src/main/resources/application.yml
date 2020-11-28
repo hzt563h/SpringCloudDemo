@@ -7,7 +7,7 @@ spring:
     name: consul-provider-payment
   cloud:
     consul:
-      host: 129.211.28.174
+      host: localhost
       port: 8500
       discovery:
         service-name: ${spring.application.name}
